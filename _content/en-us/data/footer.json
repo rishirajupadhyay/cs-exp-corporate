@@ -1,0 +1,66 @@
+[
+  {
+    "_data": {
+      "updated_at": "2016-07-27T05:30:37.026Z",
+      "created_at": "2016-07-12T12:15:54.297Z",
+      "title": "Footer",
+      "address_block": [
+        {
+          "address": "Corporate Plaza<br>\nSan Francisco, CA",
+          "font_awesome_class": "fa-map-marker"
+        },
+        {
+          "address": "<a href=\"mailto:info@corporate.com\">info@corporate.com</a><br>\n<a href=\"mailto:support@corporate.com\">support@corporate.com</a>",
+          "font_awesome_class": "fa-envelope-o"
+        },
+        {
+          "address": "Phone: +1.000.000.0000<br>",
+          "font_awesome_class": "fa-phone"
+        }
+      ],
+      "copyright": "Corporate theme was developed by <a href=\"#\">corporate.com</a>",
+      "_metadata": {
+        "uid": "blt3450d84fe9dc9c1b",
+        "locale": "en-us"
+      },
+      "tags": [],
+      "updated_by": "bltafb9a2f130f952adb0886a5e",
+      "created_by": "bltafb9a2f130f952adb0886a5e",
+      "uid": "blt3450d84fe9dc9c1b",
+      "social_icon": [
+        {
+          "url": "#",
+          "font_awesome_class": "fa-facebook"
+        },
+        {
+          "url": "#",
+          "font_awesome_class": "fa-twitter"
+        },
+        {
+          "url": "#",
+          "font_awesome_class": "fa-linkedin"
+        },
+        {
+          "url": "#",
+          "font_awesome_class": "fa-pinterest-p"
+        },
+        {
+          "url": "#",
+          "font_awesome_class": "fa-vimeo"
+        },
+        {
+          "url": "#",
+          "font_awesome_class": "fa-dribbble"
+        },
+        {
+          "url": "#",
+          "font_awesome_class": "fa-github"
+        }
+      ],
+      "_version": 22,
+      "published_at": "2016-07-27T05:30:51.349Z"
+    },
+    "_content_type_uid": "footer",
+    "_uid": "blt3450d84fe9dc9c1b"
+  }
+]

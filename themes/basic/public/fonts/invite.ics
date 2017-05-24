@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:CANCEL
+BEGIN:VEVENT
+DTSTART:20160708T130000Z
+DTEND:20160708T140000Z
+DTSTAMP:20160706T223701Z
+ORGANIZER;CN=Neha Sampat:mailto:neha@raweng.com
+UID:okeh1hbfo3cai253tkf4f7efk8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pr
+ adip.kolhe@raweng.com;X-NUM-GUESTS=0:mailto:pradip.kolhe@raweng.com
+CREATED:20160624T183941Z
+DESCRIPTION:Hi everyone\,\n\nIt's time for a company-wide update! We will h
+ ost a worldwide meeting using Zoom (conference call details to follow). Vir
+ ar team\, please coordinate with HR\, Bhuvan and your team leads to dial in
+  and join. US/Europe team can dial-in from their homes. More details to fol
+ low soon\, but please make arrangements to attend - thank you!\n\nNeha
+LAST-MODIFIED:20160706T223701Z
+LOCATION:
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:HOLD: Built.io Company All Hands
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
